@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.left-panel, .right-panel {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    background: #f8f8f8;
+    border-radius: 8px;
+}
