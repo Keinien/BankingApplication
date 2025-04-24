@@ -26,6 +26,11 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BankUI", "BankUI\", "{0B175
 		SlnRelativePath = "BankUI\"
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		SqlScript.sql = SqlScript.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
